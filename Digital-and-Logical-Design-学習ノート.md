@@ -50,10 +50,9 @@ $$
 
 - 符号扩展 （sign extension）
 
-$$
-0011 \Longrightarrow 0000011
-\\1101 \Longrightarrow 1111101
-$$
+$$ 0011 \Longrightarrow 0000011 $$
+
+$$ 1101 \Longrightarrow 1111101 $$
 
 > 将符号位复制到所有扩展高位中
 
@@ -92,7 +91,9 @@ $$
 
 $$
 NM_L = V_{IL} - V_{OL}
-\\NM_H = V_{OH} - V_{IH}
+$$
+$$
+NM_H = V_{OH} - V_{IH}
 $$
 
 - 静态约束（Q点）
@@ -152,13 +153,8 @@ $$
 
 - 常用化简公式
 
-$$
-X+YZ=(X+Y)(X+Z)
-$$
-
-$$
-BC+ \bar BD + CD = BC + \bar BD
-$$
+$$ X+YZ=(X+Y)(X+Z) $$
+$$ BC+ \bar BD + CD = BC + \bar BD $$
 
 $$
 \bar ABC = \bar ABC + \bar ABC
@@ -166,10 +162,9 @@ $$
 
 - 和、积 相互转化（化简、优化电路）
 
-$$
-F = \bar {\bar F}
-\\F = (F^*)^*
-$$
+$$F = \bar {\bar F} $$
+
+$$ F = {(F^{dual})}^{dual} $$
 
 ---
 
