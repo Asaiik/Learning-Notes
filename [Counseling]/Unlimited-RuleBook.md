@@ -4,11 +4,19 @@
 
 - [**アンリミテッドルールブック**](#アンリミテッドルールブック)
   - [***Contents***](#contents)
-  - [4、ちょっと差がつく『百人一首講座』](#4ちょっと差がつく百人一首講座)
+        - [1、Automaton - GOSICK中的土耳其行棋傀儡](#1automaton---gosick中的土耳其行棋傀儡)
+        - [2、wider than the sky](#2wider-than-the-sky)
+        - [3、僕だけがいない街 -  取材](#3僕だけがいない街----取材)
+    - [4、ちょっと差がつく『百人一首講座』](#4ちょっと差がつく百人一首講座)
+      - [4.1 三条院（68番）](#41-三条院68番)
+        - [5、*Alice in Wonderland* - Lewis Carroll's dreams and storise](#5alice-in-wonderland---lewis-carrolls-dreams-and-storise)
+        - [6、始めちょろちょろ中ぱっぱ  赤子泣くとも蓋取るな](#6始めちょろちょろ中ぱっぱ--赤子泣くとも蓋取るな)
+        - [7、24h自助租车点 - Times](#724h自助租车点---times)
+        - [8、VTuber](#8vtuber)
 
 ---
 
-1、Automaton - GOSICK中的土耳其行棋傀儡
+##### 1、Automaton - GOSICK中的土耳其行棋傀儡
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/2/25/Turk-engraving5.jpg)
 
@@ -22,7 +30,7 @@
 
 
 
-2、
+##### 2、wider than the sky
 
 > <p>
 >     <center><i>The Brain—is wider than the Sky—</i></center>
@@ -37,7 +45,7 @@
 
 
 
-3、僕だけがいない街 -  取材
+##### 3、僕だけがいない街 -  取材
 
 >  一部メディアのインタビューには、北海道のシーンを全て苫小牧市で撮影したとあるが、実際には白老町でも撮影されている
 
@@ -45,7 +53,7 @@
 
 ---
 
-## 4、ちょっと差がつく『百人一首講座』
+### 4、ちょっと差がつく『百人一首講座』
 
 『小倉百人一首』の中から一首ずつ、100首全てを解説。
 百人一首の世界とともにお菓子を楽しみませんか？
@@ -54,7 +62,7 @@
 
 ---
 
-**4.1**
+#### 4.1 三条院（68番）
 
 >心にも　あらでうき世に　ながらへば
 >恋しかるべき　夜半の月かな
@@ -104,7 +112,7 @@
 
 
 
-5、*Alice in Wonderland* - Lewis Carroll's dreams and storise
+##### 5、*Alice in Wonderland* - Lewis Carroll's dreams and storise
 
 ![Alice's Adventures in Wonderland cover (1865).jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg/220px-Alice%27s_Adventures_in_Wonderland_cover_%281865%29.jpg)
 
@@ -120,3 +128,30 @@
   >
   >[Collected-Web](don't remember)
 
+---
+
+##### 6、始めちょろちょろ中ぱっぱ  赤子泣くとも蓋取るな
+
+> はじめのうちは火を弱くし、中ごろは火を強め、途中で蓋を取ってはいけない。飯のじょうずな炊き方をいったもの。
+
+![20221024125607](Unlimited-RuleBook.assets/20221024125607.png)
+
+![20221024125648](Unlimited-RuleBook.assets/20221024125648.png)
+
+![20221024125720](Unlimited-RuleBook.assets/20221024125720.png)
+
+![20221024125740](Unlimited-RuleBook.assets/20221024125740.png)
+
+---
+
+##### 7、24h自助租车点 - Times
+
+![20221024164824](Unlimited-RuleBook.assets/20221024164824.png)
+
+![20221024164839](Unlimited-RuleBook.assets/20221024164839.png)
+
+---
+
+##### 8、VTuber
+
+![20221026223402](Unlimited-RuleBook.assets/20221026223402.png)
