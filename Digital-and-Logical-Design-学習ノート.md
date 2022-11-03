@@ -70,7 +70,8 @@ $$
 
 $$
 0011 \Longrightarrow 0000011
-\\1101 \Longrightarrow 1111101
+\\\\
+1101 \Longrightarrow 1111101
 $$
 
 > 将符号位复制到所有扩展高位中
@@ -196,7 +197,7 @@ $$
 
 $$
 F = \bar {\bar F}
-\\F = {(F^*)}^*
+\\F = {(F^{dual})}^{dual}
 $$
 
 - 由对偶原理，二者等价（De Morgan ~ 取对偶 ~ 两种2-level logic互化）
